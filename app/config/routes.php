@@ -47,4 +47,5 @@ defined('PREVENT_DIRECT_ACCESS') OR exit('No direct script access allowed');
 $router->get('/', 'Repository::home');
 $router->get('/student', 'Repository::student');
 $router->get('/admin', 'Repository::admin');
+$router->get('/login', 'Repository::login');
 

@@ -14,5 +14,9 @@ class Repository extends Controller {
     public function home(){
         $this->call->view('home');
     }
+
+    public function login(){
+        $this->call->view('login');
+    }
 }
 ?>
