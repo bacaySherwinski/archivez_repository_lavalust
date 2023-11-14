@@ -48,4 +48,5 @@ $router->get('/', 'Repository::home');
 $router->get('/student', 'Repository::student');
 $router->get('/admin', 'Repository::admin');
 $router->get('/login', 'Repository::login');
+$router->get('/register', 'Repository::register');
 
