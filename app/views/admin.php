@@ -289,7 +289,7 @@
 
     <li class="nav-item">
         <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
-          <i class="bi bi-envelope"></i><span>Archives</span>
+          <i class="bi bi-archive"></i><span>Archives</span>
         </a>
     </li><!-- End Archives Nav -->
 
@@ -297,7 +297,7 @@
         <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
           <i class="bi bi-layout-text-window-reverse"></i><span>Manage Research</span>
         </a>
-    </li><!-- End Archives Nav -->
+    </li><!-- End Manage Research Nav -->
 
     </ul>
 
@@ -331,7 +331,7 @@
 
                   <div class="d-flex align-items-center">
                     <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
-                      <i class="bi bi-cart"></i>
+                      <i class="bi bi-file-earmark-text"></i>
                     </div>
                     <div class="ps-3">
                       <h6>145</h6>
@@ -353,7 +353,7 @@
 
                   <div class="d-flex align-items-center">
                     <div class="card-icon rounded-circle d-flex align-items-center justify-content-center">
-                      <i class="bi bi-currency-dollar"></i>
+                      <i class="bi bi-archive"></i>
                     </div>
                     <div class="ps-3">
                       <h6>264</h6>
