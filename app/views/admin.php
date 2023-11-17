@@ -268,36 +268,30 @@
     <ul class="sidebar-nav" id="sidebar-nav">
 
       <li class="nav-item">
-        <a class="nav-link " href="index.html">
+        <a class="nav-link " href="admin">
           <i class="bi bi-grid"></i>
           <span>Dashboard</span>
         </a>
       </li><!-- End Dashboard Nav -->
 
-
       <li class="nav-item">
-        <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
-          <i class="bi bi-person"></i><span>Profile</span>
+        <a class="nav-link collapsed" href="researchoutputs">
+          <i class="bi bi-file-earmark-text"></i>
+          <span>Research Outputs</span>
         </a>
-    </li><!-- End Profile Nav -->
+      </li> <!-- End Research Outputs Nav -->
 
     <li class="nav-item">
-        <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
-          <i class="bi bi-journal-text"></i><span>Research Outputs</span>
-        </a>
-    </li><!-- End Research Outputs Nav -->
-
-    <li class="nav-item">
-        <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
+        <a class="nav-link collapsed" href="archives">
           <i class="bi bi-archive"></i><span>Archives</span>
         </a>
     </li><!-- End Archives Nav -->
 
-    <li class="nav-item">
-        <a class="nav-link collapsed" data-bs-target="#components-nav" data-bs-toggle="collapse" href="#">
-          <i class="bi bi-layout-text-window-reverse"></i><span>Manage Research</span>
+    <li class="nav-item ">
+        <a class="nav-link collapsed" href="users"> 
+          <i class="bi bi-person"></i><span>Users</span>
         </a>
-    </li><!-- End Manage Research Nav -->
+    </li><!-- End  Users Nav -->
 
     </ul>
 
@@ -309,7 +303,7 @@
       <h1>Dashboard</h1>
       <nav>
         <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+          <li class="breadcrumb-item"><a href="admin">Admin</a></li>
           <li class="breadcrumb-item active">Dashboard</li>
         </ol>
       </nav>

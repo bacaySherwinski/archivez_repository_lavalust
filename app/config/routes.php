@@ -49,4 +49,8 @@ $router->get('/student', 'Repository::student');
 $router->get('/admin', 'Repository::admin');
 $router->get('/login', 'Repository::login');
 $router->get('/register', 'Repository::register');
+$router->get('/researchoutputs', 'Repository::researchoutputs');
+$router->get('/archives', 'Repository::archives');
+$router->get('/users', 'Repository::users');
+
 

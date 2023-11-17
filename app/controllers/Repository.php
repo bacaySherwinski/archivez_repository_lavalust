@@ -22,5 +22,17 @@ class Repository extends Controller {
     public function register(){
         $this->call->view('register');
     }
+
+    public function researchoutputs(){
+        $this->call->view('researchoutputs');
+    }
+
+    public function archives(){
+        $this->call->view('archives');
+    }
+
+    public function users(){
+        $this->call->view('users');
+    }
 }
 ?>
