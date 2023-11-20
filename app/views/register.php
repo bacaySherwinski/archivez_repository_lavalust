@@ -76,12 +76,12 @@
                     </div>
 
                     <div class="col-12">
-                      <label for="yourUsername" class="form-label">Username</label>
-                      <div class="input-group has-validation">
-                        <span class="input-group-text" id="inputGroupPrepend">@</span>
-                        <input type="text" name="username" class="form-control" id="yourUsername" placeholder="username" required>
-                        <div class="invalid-feedback">Please choose a username.</div>
-                      </div>
+                      <label for="UserType" class="form-label">User Type</label>
+                      <select class="form-select" aria-label="Default select example" placeholder="********" required>
+                        <option selected></option>
+                        <option value="1">Admin</option>
+                        <option value="2">Student</option>
+                    </select>
                     </div>
 
                     <div class="col-12">
@@ -107,7 +107,7 @@
                       <button class="btn btn-primary w-100" type="submit">Create Account</button>
                     </div>
                     <div class="col-12">
-                      <p class="small mb-0">Already have an account? <a href="/login">Log in</a></p>
+                      <p class="small mb-0">Already have an account? <a href="/">Log in</a></p>
                     </div>
                   </form>
 

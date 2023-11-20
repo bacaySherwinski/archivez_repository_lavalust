@@ -60,11 +60,10 @@
                   <form class="row g-3 needs-validation" novalidate>
 
                     <div class="col-12">
-                      <label for="yourUsername" class="form-label">Username</label>
+                      <label for="youremail" class="form-label">Email</label>
                       <div class="input-group has-validation">
-                        <span class="input-group-text" id="inputGroupPrepend">@</span>
-                        <input type="text" name="username" class="form-control" id="yourUsername" placeholder = "username" required>
-                        <div class="invalid-feedback">Please enter your username.</div>
+                        <input type="text" name="email" class="form-control" id="youremail" placeholder = "Email" required>
+                        <div class="invalid-feedback">Please enter your email.</div>
                       </div>
                     </div>
 

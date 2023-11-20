@@ -374,12 +374,12 @@
                     <textarea class="form-control" style="height: 100px"></textarea>
                   </div>
                 </div>
-
+                <button type="button" class="btn btn-primary">Submit</button>
                   </div>
                 </div>
 
 
-
+                
 
                 <div class="row mb-3">
                   <label class="col-sm-2 col-
@@ -395,7 +395,7 @@
   </main><!-- End #main -->
 
 
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="# class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="public/assets/vendor/apexcharts/apexcharts.min.js"></script>
